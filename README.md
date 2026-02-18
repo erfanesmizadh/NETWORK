@@ -54,7 +54,7 @@ Layer5 (Session Layer) شبکه‌ای است که روی مدیریت session �
 ---
 
 ⚡ نصب سریع
-
+```
 bash <(curl -Ls https://raw.githubusercontent.com/erfanesmizadh/NETWORK/main/Layer5.sh)
 
 ---
